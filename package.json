@@ -1,8 +1,9 @@
 {
-  "name": "secret-code.js",
+  "name": "secret-code",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:kurybr/secret-code.js.git",
   "author": "Jorge Soares <jorge.soares@focanocodigo.cloud>",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
