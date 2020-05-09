@@ -1,0 +1,8 @@
+{
+  "name": "secret-code.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kurybr/secret-code.js.git",
+  "author": "Jorge Soares <jorge.soares@focanocodigo.cloud>",
+  "license": "MIT"
+}
